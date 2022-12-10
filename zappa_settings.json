@@ -5,7 +5,7 @@
         "project_name": "zappa",
         "keep_warm": false,
         "runtime": "python3.9",
-        "s3_bucket": "zappa-xxxxxx",
+        "s3_bucket": "zappa-s3-bucket",
         "aws_region": "us-east-1"
     }
 }
